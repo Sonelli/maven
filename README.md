@@ -1,7 +1,7 @@
 Sonelli Maven Repository
 =====
 
-JuiceSSH Maven Repository for the JuiceSSH Plugin Library.
+Maven Repository for the JuiceSSH Plugin Library - ready to use in Android Studio.
 
 To use, add the following to your project's build.gradle file:
 
