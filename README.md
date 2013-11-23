@@ -1,4 +1,4 @@
-maven
+Sonelli Maven Repository
 =====
 
 JuiceSSH Maven Repository for the JuiceSSH Plugin Library.
